@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.images-container {
+  display: flex;
+  margin-bottom: 50px;
+  padding: 20px;
+}
+
+.image {
+  width: 30%;
+  height: 40%;
+}
+.images-heading {
+  font-size: 25px;
+  color: rgb(194, 41, 125);
+}
+.images-title {
+  font-size: 23px;
+  color: brown;
+}
+.images-desc {
+  font-size: 20px;
+  color: darkgreen;
+}
